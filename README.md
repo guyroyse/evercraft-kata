@@ -59,7 +59,7 @@ As a character I want to have several abilities so that I am not identical to ot
 - Abilities have modifiers according to the following table
 
 | Score | Modifier | Score | Modifier | Score | Modifier | Score | Modifier |
-| ----- | -------- | ----- | -------- | ----- | -------- | ----- | -------- |
+|:-----:|:--------:|:-----:|:--------:|:-----:|:--------:|:-----:|:--------:|
 |   1   |    -5    |   6   |    -2    |  11   |     0    |  16   |    +3    |
 |   2   |    -4    |   7   |    -2    |  12   |    +1    |  17   |    +3    |
 |   3   |    -4    |   8   |    -1    |  13   |    +1    |  18   |    +4    |
