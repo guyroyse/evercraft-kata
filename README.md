@@ -3,11 +3,11 @@
 In this exercise, you will build out a domain model for a MMORPG called EverCraft for the company Blizzards of the Coast.  Just
 follow the requirements below, pairing and test driving your code of course, and have fun.
 
-This document and several sample projects can be found on-line at [https://github.com/walterg2/EverCraft-Kata] (https://github.com/walterg2/EverCraft-Kata)
+This document and several sample projects can be found on-line at [https://github.com/walterg2/EverCraft-Kata](https://github.com/walterg2/EverCraft-Kata)
 
 May all your rolls be 20s.
 
-Guy Royse [(@guyroyse)] (https://twitter.com/#!/guyroyse) and George Walters II [(@walterg2)] (https://twitter.com/#!/walterg2)
+Guy Royse [@guyroyse](https://twitter.com/#!/guyroyse) and George Walters II [@walterg2](https://twitter.com/#!/walterg2)
 
 # Requirements
 
@@ -59,13 +59,30 @@ As a character I want to have several abilities so that I am not identical to ot
 - Abilities have modifiers according to the following table
 
 <pre>
-         +------+------+------+------+------+------+------+------+------+------+
-Score    |   1  |   2  |   3  |   4  |   5  |   6  |   7  |   8  |   9  |  10  |  
-Modifier |  -5  |  -4  |  -4  |  -3  |  -3  |  -2  |  -2  |  -1  |  -1  |   0  |  
-         +------+------+------+------+------+------+------+------+------+------+
-Score    |  11  |  12  |  13  |  14  |  15  |  16  |  17  |  18  |  19  |  20  |
-Modifier |   0  |  +1  |  +1  |  +2  |  +2  |  +3  |  +3  |  +4  |  +4  |  +5  |
-         +------+------+------+------+------+------+------+------+------+------+
+
+| Score | Modifier |
+| ----- | -------- |
+|   1   |    -5    |
+|   2   |    -4    |
+|   3   |    -4    |
+|   4   |    -3    |
+|   5   |    -3    |
+|   6   |    -2    |
+|   7   |    -2    |
+|   8   |    -1    |
+|   9   |    -1    |
+|  10   |     0    |
+|  11   |     0    |
+|  12   |    +1    |
+|  13   |    +1    |
+|  14   |    +2    |
+|  15   |    +2    |
+|  16   |    +3    |
+|  17   |    +3    |
+|  18   |    +4    |
+|  19   |    +4    |
+|  20   |    +5    |
+
 </pre>
 
 ### Feature: Character Ability Modifiers Modify Attributes
