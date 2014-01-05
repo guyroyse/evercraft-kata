@@ -56,7 +56,7 @@ As a character I want to have several abilities so that I am not identical to ot
 
 - Abilities are Strength, Dexterity, Constitution, Wisdom, Intelligence, Charisma
 - Abilities range from 1 to 20 and default to 10
-- Abilities have modifiers according to the following table
+- Abilities have modifiers according to the following table:
 
 | Score | Modifier | Score | Modifier | Score | Modifier | Score | Modifier |
 |:-----:|:--------:|:-----:|:--------:|:-----:|:--------:|:-----:|:--------:|
